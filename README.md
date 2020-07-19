@@ -1,5 +1,4 @@
-## Hi There 👋🏼!
-## I am Adil Asif welcome to my coding world! 
+## Hi There 👋🏼! <br> I am Adil Asif welcome to my coding world! 
 
 ![](https://github-readme-stats.vercel.app/api?username=Adil-Asif&show_icons=true&title_color=E88795&icon_color=FF33FF&text_color=D6BCD5&bg_color=151515)
 
