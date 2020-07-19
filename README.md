@@ -1,6 +1,7 @@
-## I am Adil Asif welcome to the coding world! 
+## Hi There 👋🏼!
+## I am Adil Asif welcome to my coding world! 
 
-![](https://github-readme-stats.vercel.app/api?username=Adil-Asif&show_icons=true&title_color=8fe9e0&icon_color=79ff97&text_color=ffc984&bg_color=151515)
+![](https://github-readme-stats.vercel.app/api?username=Adil-Asif&show_icons=true&title_color=E88795&icon_color=FF33FF&text_color=D6BCD5&bg_color=151515)
 
 * Ai (Learning)
 * Web Developer (learning)
