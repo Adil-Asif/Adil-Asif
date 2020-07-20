@@ -1,5 +1,18 @@
 ## Hi There 👋🏼! <br> I am Adil Asif welcome to my coding world! 
 
+<p>
+<a href="https://twitter.com/AdilAsif20">
+  <img align="Right" alt="Adil Asif's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+<a href="https://www.linkedin.com/in/adilasif680/">
+  <img align="Right" alt="Adil Asif's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://medium.com/@adilasif680">
+  <img align="Right" alt="Adil Asif's Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" />
+</a>
+</p>
+<br>
+
 👨🏽‍💻 **About Me:**
 <p>I am a computer enthusiast who is always eager to learn new stuff. I am currently doing my Bachelor's in Computer Science from Fast University and i am currently a 3rd year student. I have attended and have been part of multiple coding competitions. Apart from this i like to solve technical problems and like to work more on backend.</p>
 <p>I have started to learn and acquire skills in different fields including Cloud-Computing, Artifitial Intelligence and Web Developement</p>
@@ -27,18 +40,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adil-asif" alt="adil-asif" /> </p>
 
 ![](https://github-readme-stats.vercel.app/api?username=Adil-Asif&show_icons=true&title_color=E88795&icon_color=FF33FF&text_color=D6BCD5&bg_color=151515)
-
-<p>
-<a href="https://twitter.com/AdilAsif20">
-  <img align="left" alt="Adil Asif's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
-<a href="https://www.linkedin.com/in/adilasif680/">
-  <img align="left" alt="Adil Asif's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://medium.com/@adilasif680">
-  <img align="left" alt="Adil Asif's Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" />
-</a>
-</p>
+ 
 
 
 <!--
