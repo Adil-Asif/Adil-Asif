@@ -1,5 +1,5 @@
 # <div align="center">Hi 👋🏼 Adil Asif here</div>
- <div align="center">WELCOME TO MY CODING WORLD!</div>
+ <div align="center"><strong>WELCOME TO MY CODING WORLD!</strong></div>
 
 <p>
 <a href="https://twitter.com/AdilAsif20">
