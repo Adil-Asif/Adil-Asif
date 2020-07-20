@@ -1,14 +1,23 @@
 ## Hi There 👋🏼! <br> I am Adil Asif welcome to my coding world! 
-👨🏽‍💻 About Me:
 
-👨‍💻 Skills:
+👨🏽‍💻 **About Me:**
+<p>I am a computer enthusiast who is always eager to learn new stuff. I am currently doing my Bachelor's in Computer Science from Fast University and i am currently a 3rd year student. I have attended and have been part of multiple coding competitions. Apart from this i like to solve technical problems and like to work more on backend.</p>
+<p>I have started to learn and acquire skills in different fields including Cloud-Computing, Artifitial Intelligence and Web Developement</p>
+
+💻 **Skills:**
 <p align="left"><img src="https://konpa.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="c" width="40" height="40"/> <img src="https://konpa.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> <img src="https://konpa.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> <img src="https://konpa.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> <img src="https://konpa.github.io/devicon/devicon.git/icons/python/python-original-wordmark.svg" alt="python" width="50" height="50"/></p>
 
-🤔 Interests: 
+🤔 **Interests:** 
 * Ai (Learning)
 * Web Developer (learning)
 * Writer 
 * Speaker
+
+🏆 **Achievements:**
+* Beta Microsoft Student Partner
+* Founder of <a href = "https://medium.com/voice-of-code" : style= "color:red">Voice of Code</a>
+* Founder of Learn Code Hack
+* Hosted Multiple Events
 
 😄 Always Available if you need help <br>
 ⚡ Ping me in for any collabs.
