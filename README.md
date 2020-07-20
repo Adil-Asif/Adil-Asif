@@ -1,9 +1,10 @@
 ## Hi There 👋🏼! <br> I am Adil Asif welcome to my coding world! 
+👨🏽‍💻 About Me:
 
-Skills:
+👨‍💻 Skills:
 <p align="left"><img src="https://konpa.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="c" width="40" height="40"/> <img src="https://konpa.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> <img src="https://konpa.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> <img src="https://konpa.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> <img src="https://konpa.github.io/devicon/devicon.git/icons/python/python-original-wordmark.svg" alt="python" width="50" height="50"/></p>
 
-Interests: 
+🤔 Interests: 
 * Ai (Learning)
 * Web Developer (learning)
 * Writer 
