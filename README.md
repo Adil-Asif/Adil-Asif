@@ -1,11 +1,14 @@
 ## Hi There 👋🏼! <br> I am Adil Asif welcome to my coding world! 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=adil-asif" alt="adil-asif" /> </p>
 
 ![](https://github-readme-stats.vercel.app/api?username=Adil-Asif&show_icons=true&title_color=E88795&icon_color=FF33FF&text_color=D6BCD5&bg_color=151515)
 
+Skills:
+<p align="left"><img src="https://konpa.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="c" width="20" height="20"/> <img src="https://konpa.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="20" height="20"/> <img src="https://konpa.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="20" height="20"/> <img src="https://konpa.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="20" height="20"/> <img src="https://konpa.github.io/devicon/devicon.git/icons/python/python-original-wordmark.svg" alt="python" width="20" height="20"/></p><p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=adil-asif&show_icons=true" alt="adil-asif" /> </p>
+
+Interests: 
 * Ai (Learning)
 * Web Developer (learning)
-* C++
-* Pythonner
 * Writer 
 * Speaker
 
