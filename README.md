@@ -1,10 +1,7 @@
 ## Hi There 👋🏼! <br> I am Adil Asif welcome to my coding world! 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=adil-asif" alt="adil-asif" /> </p>
-
-![](https://github-readme-stats.vercel.app/api?username=Adil-Asif&show_icons=true&title_color=E88795&icon_color=FF33FF&text_color=D6BCD5&bg_color=151515)
 
 Skills:
-<p align="left"><img src="https://konpa.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="c" width="40" height="40"/> <img src="https://konpa.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> <img src="https://konpa.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> <img src="https://konpa.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> <img src="https://konpa.github.io/devicon/devicon.git/icons/python/python-original-wordmark.svg" alt="python" width="50" height="50"/></p><p align="center"> <img 
+<p align="left"><img src="https://konpa.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="c" width="40" height="40"/> <img src="https://konpa.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> <img src="https://konpa.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> <img src="https://konpa.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> <img src="https://konpa.github.io/devicon/devicon.git/icons/python/python-original-wordmark.svg" alt="python" width="50" height="50"/></p>
 
 Interests: 
 * Ai (Learning)
@@ -16,8 +13,10 @@ Interests:
 ⚡ Ping me in for any collabs.
 <br>
 
-![](https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif)
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=adil-asif" alt="adil-asif" /> </p>
+
+![](https://github-readme-stats.vercel.app/api?username=Adil-Asif&show_icons=true&title_color=E88795&icon_color=FF33FF&text_color=D6BCD5&bg_color=151515)
 
 <p>
 <a href="https://twitter.com/AdilAsif20">
