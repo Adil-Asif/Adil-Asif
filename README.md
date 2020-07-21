@@ -31,6 +31,7 @@
 * Beta Microsoft Student Partner
 * Founder of <a href = "https://medium.com/voice-of-code">Voice of Code</a>
 * Founder of <a href = "https://www.youtube.com/channel/UCbzwhYfhOTi8-XlUsMISlIQ">Learn Code Hack</a>
+* Mentor
 * Hosted Multiple Events
 
 😄 Always Available if you need help <br>
