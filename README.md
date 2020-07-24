@@ -19,7 +19,12 @@
 <p>I have started to learn and acquire skills in different fields including Cloud-Computing, Artifitial Intelligence and Web Developement</p>
 
 💻 **Skills:**
-<p align="left"><img src="https://konpa.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="c" width="40" height="40"/> <img src="https://konpa.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> <img src="https://konpa.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> <img src="https://konpa.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> <img src="https://konpa.github.io/devicon/devicon.git/icons/python/python-original-wordmark.svg" alt="python" width="50" height="50"/></p>
+<p align="left">
+<img src="https://cdn.icon-icons.com/icons2/7/PNG/128/mimetypes_sourcec_342.png" alt="c" width="80" height="80"/> 
+<img src="https://cdn.icon-icons.com/icons2/1504/PNG/512/textxc_103660.png" alt="cplusplus" width="80" height="80"/> 
+<img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/css_original_wordmark_logo_icon_146576.png" alt="css3" width="80" height="80"/> 
+<img src="https://cdn.icon-icons.com/icons2/844/PNG/512/HTML5_icon-icons.com_67090.png" alt="html5" width="80" height="80"/> 
+<img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/python_original_wordmark_logo_icon_146382.png" alt="python" width="80" height="80"/></p>
 
 🤔 **Interests:** 
 * Ai (Learning)
