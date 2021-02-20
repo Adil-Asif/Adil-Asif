@@ -25,6 +25,7 @@
 <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/css_original_wordmark_logo_icon_146576.png" alt="css3" width="80" height="80"/> 
 <img src="https://cdn.icon-icons.com/icons2/844/PNG/512/HTML5_icon-icons.com_67090.png" alt="html5" width="80" height="80"/> 
 <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/python_original_wordmark_logo_icon_146382.png" alt="python" width="80" height="80"/></p>
+<img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/pocoo_flask_src_logo_icon_168043.png" alt="flask" width="80" height="80"/></p>
 
 🤔 **Interests:** 
 * Ai (Learning)
