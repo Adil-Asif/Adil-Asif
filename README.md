@@ -19,7 +19,6 @@
 <p>I have started to learn and acquire skills in different fields including Cloud-Computing, Artifitial Intelligence and Web Developement</p>
 <br>
 
-<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/Adil-Asif/Adil-Asif/blob/master/devcard.svg"  align="right" width="300"  alt="Adil Asif's Dev Card"/></a>
 💻 **Skills:**
 <p align="left">
 <img src="https://cdn.icon-icons.com/icons2/7/PNG/128/mimetypes_sourcec_342.png" alt="c" width="80" height="80"/> 
@@ -35,19 +34,22 @@
 * Writer 
 * Speaker
 
+
+
 🏆 **Achievements:**
+
 * Beta Microsoft Student Partner
 * Founder of <a href = "https://medium.com/voice-of-code">Voice of Code</a>
 * Founder of <a href = "https://www.youtube.com/channel/UCbzwhYfhOTi8-XlUsMISlIQ">Learn Code Hack</a>
+<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/Adil-Asif/Adil-Asif/blob/master/devcard.svg"  align="right" width="300"  alt="Adil Asif's Dev Card"/></a>
 * Mentor
 * Hosted Multiple Events
 
 😄 Always Available if you need help <br>
 ⚡ Ping me in for any collabs.
 <br>
-<br>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adil-asif" alt="adil-asif" /> </p>
+
 
 ![](https://github-readme-stats.vercel.app/api?username=Adil-Asif&show_icons=true&title_color=E88795&icon_color=FF33FF&text_color=D6BCD5&bg_color=151515)
  
