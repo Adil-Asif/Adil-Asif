@@ -19,7 +19,7 @@
 <p>I have started to learn and acquire skills in different fields including Cloud-Computing, Artifitial Intelligence and Web Developement</p>
 <br>
 
-<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/Adil-Asif/Adil-Asif/blob/master/devcard.svg"  align="right" width="400"  alt="Adil Asif's Dev Card"/></a>
+<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/Adil-Asif/Adil-Asif/blob/master/devcard.svg"  align="right" width="300"  alt="Adil Asif's Dev Card"/></a>
 💻 **Skills:**
 <p align="left">
 <img src="https://cdn.icon-icons.com/icons2/7/PNG/128/mimetypes_sourcec_342.png" alt="c" width="80" height="80"/> 
