@@ -17,7 +17,9 @@
 👨🏽‍💻 **About Me:**
 <p>I am a computer enthusiast who is always eager to learn new stuff. I am currently doing my Bachelor's in Computer Science from Fast University and i am currently a 3rd year student. I have attended and have been part of multiple coding competitions. Apart from this i like to solve technical problems and like to work more on backend.</p>
 <p>I have started to learn and acquire skills in different fields including Cloud-Computing, Artifitial Intelligence and Web Developement</p>
+<br>
 
+<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/Adil-Asif/Adil-Asif/blob/master/devcard.svg"  align="right" width="400"  alt="Adil Asif's Dev Card"/></a>
 💻 **Skills:**
 <p align="left">
 <img src="https://cdn.icon-icons.com/icons2/7/PNG/128/mimetypes_sourcec_342.png" alt="c" width="80" height="80"/> 
@@ -43,7 +45,7 @@
 😄 Always Available if you need help <br>
 ⚡ Ping me in for any collabs.
 <br>
-
+<br>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adil-asif" alt="adil-asif" /> </p>
 
@@ -59,10 +61,10 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+- 🤔 I’m looking for help with ..
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/Adil-Asif/Adil-Asif/blob/master/devcard.svg" width="400" alt="Adil Asif's Dev Card"/></a>
+
