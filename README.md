@@ -39,8 +39,8 @@
 🏆 **Achievements:**
 
 * Beta Microsoft Student Partner
-* Founder of <a href = "https://medium.com/voice-of-code">Voice of Code</a>
 <a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/Adil-Asif/Adil-Asif/blob/master/devcard.svg"  align="right" width="300"  alt="Adil Asif's Dev Card"/></a>
+* Founder of <a href = "https://medium.com/voice-of-code">Voice of Code</a>
 * Founder of <a href = "https://www.youtube.com/channel/UCbzwhYfhOTi8-XlUsMISlIQ">Learn Code Hack</a>
 * Mentor
 * Hosted Multiple Events
